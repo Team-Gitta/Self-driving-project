@@ -1,0 +1,6 @@
+main.c:76:5:main	56	static
+main.c:159:6:SystemClock_Config	104	static
+main.c:207:6:controlRotateDirection	24	static
+main.c:255:6:motorControl	64	static
+main.c:314:6:actControl	24	static
+main.c:391:6:Error_Handler	4	static
